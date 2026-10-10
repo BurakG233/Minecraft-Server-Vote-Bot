@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Atlasoyuncu G233 Vote Bot
+# ⚡ Minecraft G233 Vote Bot
 
 **Minecraft sunucunuza oy (vote) sitelerine otomatik oy veren akıllı terminal botu**
 
