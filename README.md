@@ -16,7 +16,8 @@
 
 ---
 
-## 🎯 Neden Atlasoyuncu G233 Vote Bot?
+## 🎯 Neden 
+G233 Vote Bot?
 
 Ellerinizle her gün birden fazla oy sitesine girip oy vermek artık yok.
 Bu bot sizin yerinize **otomatik olarak oy verir**, **Cloudflare engelini aşar**
